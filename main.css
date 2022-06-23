@@ -1,0 +1,302 @@
+.jeni{
+      outline: 2px solid black;
+      height: 500px;
+      width: 1300px;
+}
+.arun{
+      display: flex;
+      justify-content: space-between;
+      outline: 2px solid red;
+      width: 1300px;
+      height: 200px;
+
+}
+.pandi{
+      display: flex;
+      justify-content: space-between;
+}
+.a1{
+      outline: 2px solid goldenrod;
+      width: 300px;
+      height: 50px;
+      text-align: center;
+      margin-top: 50px;
+      margin-left: 50px;
+}
+.b1{
+      outline: 2px solid violet;
+      width: 800px ;
+      height: 50px;
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 50px;
+      margin-right: 50px;
+}
+.pandi{
+      outline:2px solid rgb(0, 255, 191) ;
+      width: 1300px;
+      height: 250px;
+}
+.c1{
+      outline: 2px solid red;
+      width: 300px;
+      height: 180px;
+      text-align: center;
+      margin-top: 50px;
+      margin-left: 50px;
+}
+.c2{
+      
+      outline: 2px solid rgb(68, 0, 255);
+      width: 300px;
+      height: 180px;
+      text-align: center;
+      margin-top: 50px;
+      margin-right: 50px;
+
+}
+.flower{
+      outline:2px solid black ;
+      height: 500px;
+      width: 1300px;
+
+}
+.yellow{
+      display: flex;
+      justify-content: center;
+      outline: 2px solid orange;
+      height: 200px;
+      width: 1300px;
+      
+}
+.white{
+      display: flex;
+      justify-content: space-between;
+      outline: 2px solid red;
+      height: 250px;
+      width: 1300px;
+
+}
+.green{
+      outline: 2px solid yellow;
+      max-height:150px ;
+      width: 200px;
+      text-align: center;
+      margin-top: 50px;
+      margin-left: 50px;
+
+}
+.red{
+  
+      outline: 2px solid yellow;
+      height:150px ;
+      width: 200px;
+      text-align: center; 
+      margin-top: 50px;
+      margin-right: 50px;   
+}
+.s1{
+      outline: 2px solid black;
+      height: 500px;
+      width: 1300px;
+
+}
+.v1{
+      outline: 2px solid rgb(0, 255, 191);
+      height: 80px;
+      width:1300px ;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      
+}
+.v2{
+      outline: 2px solid yellow;
+      height: 400px;
+      width: 1300px;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      text-align: center;
+      
+      
+      
+
+}
+.m1{
+      outline: 2px solid red;
+      height: 80px;
+      width: 250px;
+      display: flex;
+      justify-content: space-between;
+      margin: auto;
+      margin-top: 50px;
+      margin-left: 50px;
+      margin-right: 50px;
+      text-align: center;
+      justify-content: center;
+      line-height: 80px;
+      
+      
+}
+.z1{
+      outline: 2px solid black;
+      height: 300px;
+      width: 1300px;
+      
+}
+.z2{
+      
+      text-align: center;
+      display: flex;
+      justify-content:center;
+      
+      
+}
+.z{
+      outline: 2px solid yellow;
+      height: 150px;
+      width: 800px;
+      margin-top: 80px;
+
+      
+
+
+}
+.k1{
+      outline: 2px solid black;
+      height: 500px;
+      width: 1300px;
+}
+.k2{
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+
+}
+.k3{
+      outline: 2px solid yellow;
+      height: 200px;
+      width: 400px;
+      text-align: center;
+      margin-left: 30px;
+      margin-top: 50px ;
+      display: flex;
+      justify-content: space-evenly;
+}
+.n1{
+      outline: 2px solid green;
+      height: 75px;
+      width: 200px;
+      margin: 15px;
+      margin-top: 40px;
+
+}
+.n2{
+      outline: 2px solid red;
+      height: 75px;
+      width: 200px;
+      margin: 15px;
+      margin-top: 40px;
+}
+.k4{
+      outline: 2px solid orangered;
+      height: 250px;
+      width: 700px;
+      margin: 40px;
+      text-align: center;
+}
+.k5{
+      outline: 2px solid blue;
+      height: 100px;
+      width: 250px;
+      margin-left: 50px;
+      text-align: center;
+}
+.g1{
+      outline: 2px solid black;
+      height: 450px;
+      width: 1300px;
+
+
+
+}
+.g2{
+      outline: 2px solid pink;
+      height: 450px;
+      width:1300px ;
+}
+.o1{
+      outline: 2px solid grey;
+      height: 75px;
+      width: 1250px;
+      display: flex;
+      justify-content: center;
+      margin-top: 50px;
+      margin-left: 25px;
+}
+.p1{
+      outline: 2px solid red;
+      height: 200px;
+      width: 200px;
+      display: flex;
+      justify-content: space-between;
+      text-align: center;
+      line-height: 30px;
+}
+.o2{
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 150px;
+
+}
+.w1{
+      outline: 2px solid black;
+      height: 500px;
+      width: 1300px;
+}
+.w3{
+      outline: 2px solid rebeccapurple;
+      height: 300px;
+      width: 1200px; 
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 50px;
+      margin-left: 20px;
+}
+.u{
+      outline: 2px solid green;
+      height: 200px;
+      width: 200px;
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 20px;
+}
+.w4{
+      outline: 2px solid red;
+      height: 100px ;
+      width: 400px;
+      margin-top: 50px;
+      margin-left:400px ;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+} 
+
+
+
+      
+      
+      
+      
+
+
+      
+
+
+
+
+      
+
+
+      
