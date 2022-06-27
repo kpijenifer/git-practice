@@ -1,0 +1,155 @@
+/*container1*/
+.top{
+    height: 140px;
+    background-color: black;
+   
+}
+.intop{
+    margin-left: 20px;
+    padding: 20px;
+
+}
+.name{
+    color: red;
+    font-size: 20px;
+}
+.developer{
+    color: white;
+    font-size: 20px;
+}
+p{
+    color: white;
+}
+
+/*container2*/
+.jeni{
+    background-color: red;
+    height: 40px;
+    
+}
+.injeni{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    color: white;
+}
+.mobile img{
+    margin-right: 6px;
+}
+.mail img{
+    margin-right: 6px;
+}
+.location img{
+    margin-right: 6px;
+}
+.instagram img{
+    margin-right: 6px;
+}
+/*container1*/
+.two{
+    display: flex;
+    margin-top: 10px;
+}
+.skills{
+    background-color: white;
+    height: 250px;
+}
+.box1{
+    height: 25px;
+
+    width: 30px;
+    background-color: red;
+}
+.kalep{
+    color: red;
+    font-size: 20px;
+    margin-left: 5px;
+}
+.key{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+.poove{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 10px;
+    padding: 15px;
+}
+.media{
+    background-color: rgb(54, 180, 180);
+    height: 20px;
+    padding: 5px;
+}
+/*container4*/
+
+.techanical{
+    font-size: 20px;
+    color: red;
+    margin-left: 5px;
+    
+}
+.mechanical{
+    margin-left: 35px;
+    margin-top: 15px;
+    padding: 20px;
+}
+.box{
+    height: 25px;
+    width: 30px;
+    background-color: red;
+    
+}
+.three{
+    display: flex;
+    
+
+}
+/*container5*/
+.mallgai{
+    display: flex;
+}
+.box2{
+    height: 25px;
+    width: 30px;
+    background-color: red;
+
+}
+.peofessional{
+    font-size:20px ;
+    color: red;
+    margin-left: 5px;
+    
+
+}
+.exp{
+    margin-left: 35px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+/*page end*/
+.ed{
+    display: flex;
+    margin-top: 20px;
+}
+.box4{
+    height: 25px;
+    width: 30px;
+    background-color: red;
+}
+.edu{
+   font-size: 20px;
+   color: red;
+   margin-left: 5px;
+}
+.education{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
